@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parks>
+    <park type="Urban">
+        <owner>City of New York</owner>
+        <name>Central Park</name>
+        <reservation>
+            <address>123 Central Park West</address>
+            <address>59th to 110th St, Manhattan</address>
+            <url>http://www.centralparknyc.org/reservation</url>
+        </reservation>
+        <neighbouring_states>New York</neighbouring_states>
+        <neighbouring_states>New Jersey</neighbouring_states>
+		<established Founder="Frederick Law Olmsted"></established>
+    </park>
+	<park type="National">
+        <owner>National Park Service</owner>
+        <name>Yellowstone National Park</name>
+        <reservation>
+            <address>2nd St and Yellowstone Ave, Yellowstone, WY</address>
+            <url>http://www.nps.gov/yell/reservation</url>
+        </reservation>
+        <neighbouring_states>Wyoming</neighbouring_states>
+        <neighbouring_states>Montana</neighbouring_states>
+        <neighbouring_states>Idaho</neighbouring_states>
+        <established>
+            <!-- Optional attribute value not provided -->
+        </established>
+    </park>
+    <park type="National">
+        <owner>California Department of Parks and Recreation</owner>
+        <name>Yosemite National Park</name>
+        <reservation>
+            <address>Yosemite Village, CA</address>
+            <url>http://www.nps.gov/yose/reservation</url>
+        </reservation>
+        <neighbouring_states>California</neighbouring_states>
+        <neighbouring_states>Nevada</neighbouring_states>
+        <established Founder="John Muir"></established>
+    </park>
+    <park type="National">
+        <owner>National Park Service</owner>
+        <name>Grand Canyon National Park</name>
+        <reservation>
+            <address>20 S Entrance Rd, Grand Canyon, AZ</address>
+            <url>http://www.nps.gov/grca/reservation</url>
+        </reservation>
+        <neighbouring_states>Arizona</neighbouring_states>
+        <neighbouring_states>Utah</neighbouring_states>
+        <established Founder="Theodore Roosevelt"></established>
+    </park>
+    <park type="National">
+        <owner>US Forest Service</owner>
+        <name>Great Smoky Mountains National Park</name>
+        <reservation>
+            <address>Cades Cove, Townsend, TN</address>
+            <url>http://www.nps.gov/grsm/reservation</url>
+        </reservation>
+        <neighbouring_states>Tennessee</neighbouring_states>
+        <neighbouring_states>North Carolina</neighbouring_states>
+        <established>
+            <!-- Optional attribute value not provided -->
+        </established>
+    </park>
+    <park type="National">
+        <owner>National Park Service</owner>
+        <name>Zion National Park</name>
+        <reservation>
+            <address>Springdale, UT 84767</address>
+            <url>http://www.nps.gov/zion/reservation</url>
+        </reservation>
+        <neighbouring_states>Utah</neighbouring_states>
+        <neighbouring_states>Arizona</neighbouring_states>
+        <established Founder="David Flanigan"></established>
+    </park>
+    <park type="National">
+        <owner>National Park Service</owner>
+        <name>Acadia National Park</name>
+        <reservation>
+            <address>Bar Harbor, ME 04609</address>
+            <url>http://www.nps.gov/acad/reservation</url>
+        </reservation>
+        <neighbouring_states>Maine</neighbouring_states>
+        <neighbouring_states>New Hampshire</neighbouring_states>
+        <established Founder="George Dorr"></established>
+    </park>
+    <park type="National">
+        <owner>US Forest Service</owner>
+        <name>Mt. Hood National Forest</name>
+        <reservation>
+            <address>16400 Champion Way, Sandy, OR</address>
+            <url>http://www.fs.usda.gov/mthood/reservation</url>
+        </reservation>
+        <neighbouring_states>Oregon</neighbouring_states>
+        <neighbouring_states>Washington</neighbouring_states>
+		<established Founder="Theodore Wygant"></established>
+    </park>
+    <park type="National">
+        <owner>National Park Service</owner>
+        <name>Everglades National Park</name>
+        <reservation>
+            <address>40001 State Road 9336, Homestead, FL</address>
+            <url>http://www.nps.gov/ever/reservation</url>
+        </reservation>
+        <neighbouring_states>Florida</neighbouring_states>
+        <neighbouring_states>Florida Keys</neighbouring_states>
+        <established Founder="Marjory Stoneman Douglas"></established>
+    </park>
+    <park type="National">
+        <owner>US Forest Service</owner>
+        <name>Sierra National Forest</name>
+        <reservation>
+            <address>1600 Tollhouse Rd, Clovis, CA</address>
+            <url>http://www.fs.usda.gov/sierra/reservation</url>
+        </reservation>
+        <neighbouring_states>California</neighbouring_states>
+        <neighbouring_states>Nevada</neighbouring_states>
+        <established>
+            <!-- Optional attribute value not provided -->
+        </established>
+    </park>
+</Parks>
+
